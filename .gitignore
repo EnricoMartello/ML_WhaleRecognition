@@ -2,3 +2,5 @@ archive/
 test_images/
 whale_recognition.ipynb
 whale_recognition_fastai.ipynb
+models/*_v1.pth
+models/*_v2.pth
