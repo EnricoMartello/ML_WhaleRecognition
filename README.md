@@ -16,4 +16,4 @@ This is the final project of a 5 week MPAGS course held by Rudo Römer, hence I 
 As already specified at the end of the notebook, in the future (don't know yet how far this future is) I wanted to try and use a `resnet50` untrained model, and look at the improvements.
 
 ## Notes
-Note that I used the `kaggle` extension, that is well documented [here](https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/). If you are a beginner, please be smarter than me and use it when using colab: it makes your life much easier.
+Note that I used the `kaggle` extension, that is well documented [here](https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/). If you are a beginner, please be smarter than me and use it when using colab: it makes your life much easier. 
